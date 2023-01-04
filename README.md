@@ -1,3 +1,2 @@
 # LaunchX-Backend
 
-Prácticas 
